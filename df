@@ -1,0 +1,124 @@
+[33mcommit 812fdf598690552402365e8484d5236c1c5ce276[m[33m ([m[1;36mHEAD -> [m[1;32mBranch_b[m[33m, [m[1;31morigin/Branch_b[m[33m)[m
+Merge: 7a4bab1 7c7116c
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 09:56:12 2018 -0800
+
+    Merge remote-tracking branch 'origin/master' into Branch_b
+
+[33mcommit 7a4bab18c0a2bc909b7a514b8b6821cb2ace5957[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 09:55:23 2018 -0800
+
+    flip variables
+    printsomething method
+
+[33mcommit 7c7116c643f3b141297d617537a18075f7c331de[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 4e34e1d fa1d4ff
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 03:19:08 2018 -0800
+
+    Merge pull request #4 from JavaExpresso/Branch_b
+    
+    Branch b
+
+[33mcommit 30fda0494c8b9fb452767353c477d1a154fd39ef[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 03:16:19 2018 -0800
+
+    Revert "added space"
+    
+    This reverts commit fa1d4ff1fd112df2d0eae7189d8c07a88acfccfe.
+
+[33mcommit fa1d4ff1fd112df2d0eae7189d8c07a88acfccfe[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 03:14:21 2018 -0800
+
+    added space
+
+[33mcommit 37a56d7f6c34bf84fc81e5f7480f7d82387b8850[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 03:09:47 2018 -0800
+
+    int b=2
+
+[33mcommit 4e34e1d70a24b0870bf70fc2c30e0f33d1fd78d3[m
+Merge: 40abb6b d441291
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 03:08:43 2018 -0800
+
+    Merge pull request #3 from JavaExpresso/Branch_b
+    
+    string h and b=1
+
+[33mcommit d4412918ce96ad21d12c4dc456894a1d71cc3bbf[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 03:03:15 2018 -0800
+
+    string h and b=1
+
+[33mcommit 40abb6ba001b95aa0bd5b5d33d01f72aeb6ecb60[m
+Merge: a3e7caf 64e25be
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 01:57:59 2018 -0800
+
+    Merge pull request #2 from JavaExpresso/branch_A
+    
+    added space
+
+[33mcommit 64e25be98a908515f99c3a16f1d1c13e176b9682[m[33m ([m[1;31morigin/branch_A[m[33m)[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 01:55:03 2018 -0800
+
+    added space
+
+[33mcommit a3e7caf16c44b734ae9603c589b05a6182094ab6[m
+Merge: 10fad57 8d4a8fe
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 01:51:05 2018 -0800
+
+    Merge pull request #1 from JavaExpresso/branch_A
+    
+    branch a
+
+[33mcommit 8d4a8fe1e546536b59c202133700f6d2be4f38b6[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 01:44:53 2018 -0800
+
+    int b=2
+
+[33mcommit 3e600ccc958a16e031156cfc8607c8d4d625c14f[m
+Merge: 9491dde 10fad57
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 01:38:57 2018 -0800
+
+    Merge branch 'master' into branch_A
+
+[33mcommit 10fad57ecd893bedbb9731195dbe083c451efacc[m
+Author: Zulpuqar <abfairfax@gmail.com>
+Date:   Wed Nov 14 00:44:30 2018 -0800
+
+    Java one change int a value to 1
+
+[33mcommit 12e0696becff41ec6a5c0e7dcba501005a0d6e7b[m
+Author: JavaExpresso <javaexpresso2.0@gmail.com>
+Date:   Wed Nov 14 00:38:51 2018 -0800
+
+    java two
+
+[33mcommit 9491ddeafbf36424cc00798f91db4e03212b267e[m
+Author: JavaExpresso <javaexpresso2.0@gmail.com>
+Date:   Wed Nov 14 00:29:45 2018 -0800
+
+    branch a
+
+[33mcommit a1c7aa9ed23c16377f83e40332a776298b1eaf87[m
+Author: JavaExpresso <javaexpresso2.0@gmail.com>
+Date:   Wed Nov 14 00:23:55 2018 -0800
+
+    first java commit
+
+[33mcommit 02e006f42fe22acb5640bb1d0b378e6bded6352e[m
+Author: JavaExpresso <43663565+JavaExpresso@users.noreply.github.com>
+Date:   Wed Nov 14 00:15:32 2018 -0800
+
+    Initial commit
